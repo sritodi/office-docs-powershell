@@ -112,7 +112,7 @@ Accept wildcard characters: False
 ```
 
 ### -EnableExternalAccessCheck
-Enables administrators to use external access policies to block external access to Skype for Business on Mac users. 
+Enables administrators to use external access policies to control access for UCWA clients
 
 ```yaml
 Type: Boolean
